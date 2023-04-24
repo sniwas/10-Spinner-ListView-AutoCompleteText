@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">March_12_MainActivity</string>
+    <string-array name="language">
+        <item>C</item>
+        <item>C</item>
+        <item>C</item>
+        <item>C</item>
+        <item>C</item>
+        <item>C</item>
+        <item>C</item>
+        <item>C</item>
+        <item>C</item>
+        <item>C</item>
+        <item>C</item>
+        <item>C</item>
+        <item>C</item>
+        <item>C</item>
+    </string-array>
+</resources>
